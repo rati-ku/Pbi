@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "IGROVE"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e38f0b68-a232-4a75-9eda-673a5b956e3a"
+  }
+}

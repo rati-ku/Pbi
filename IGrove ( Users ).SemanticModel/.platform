@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "IGrove ( Users )"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f3740027-6d7d-49ef-b230-6db80bd8f2c4"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "EMP_BNS"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d8c28299-08a2-4f52-943b-273838af62bb"
+  }
+}

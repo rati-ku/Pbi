@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "IGrove ( Users ) 1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9a0e5719-7472-43f0-bbae-7dd6ffe27f74"
+  }
+}
